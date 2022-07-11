@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\bin\Debug\net6.0\BillManagerment.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\bin\Debug\net6.0\BillManagerment.deps.json
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\bin\Debug\net6.0\BillManagerment.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\bin\Debug\net6.0\BillManagerment.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\bin\Debug\net6.0\BillManagerment.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\refint\BillManagerment.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\BillManagerment.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\DotNet-Individual_Assignment\IndividualAssignment1\BillManagerment\obj\Debug\net6.0\ref\BillManagerment.dll
